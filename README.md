@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nikolajSOSIT
 - 👀 I’m interested in programming in C++
 - 🌱 I’m currently learning C++ on 
-- 💞️ I’m looking to collaborate on small procejt or starting company
+- 💞️ I’m looking to collaborate on small project or starting company
 - 📫 How to reach me hons.lonzo@gmail.com
 
 <!---
